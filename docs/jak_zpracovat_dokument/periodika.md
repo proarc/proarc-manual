@@ -1,4 +1,8 @@
-﻿# NDK Periodikum 
+﻿---
+status: new
+---
+
+# NDK Periodikum 
 
 **Prohlédněte si krátký videonávod nebo projděte podrobný postup zpracování níže.**
 
@@ -318,7 +322,9 @@ nastavení v sekci **Profil**.
 Rozložení je individuální - každému může vyhovovat něco jiného.  
 
 !!! tip "Tip"
-    Doporučujeme minimálně zobrazit následující podokna: **Náhledy, Tabulka** nebo **Strom, Popisná metadata** a **Obrázek.**
+    V případech, kdy zpracováváte dokumenty se stejnou strukturou - například noviny nebo časopisy se stejným počtem stran a opakujícími se typy stran - **[využijte funkci Označit řadu](./periodika_oznacit_radu.md)**.
+    
+    Funkce vám umožní vytvořit si šablonu, kterou následně aplikujete na vybranou řadu skenů, aniž byste museli informace ke každé straně zadávat ručně.
 
 Na ukázce níže jsou zobrazena podokna: **Náhledy**, **Popisná metadata**
 a **Obrázek**:
