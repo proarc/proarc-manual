@@ -11,8 +11,8 @@ Systém je volně dostupný pod licencí [GNU GPLv3](https://github.com/proarc/p
 
 **Poslední stabilní verze**
 
-* [Jádro 4.2.10](https://github.com/proarc/proarc/releases/tag/v4.2.10),
-* [Klient 2.3.5](https://github.com/proarc/proarc-client/releases/tag/v2.3.5).
+* [Jádro 4.2.12](https://github.com/proarc/proarc/releases/tag/v4.2.12),
+* [Klient 2.3.7](https://github.com/proarc/proarc-client/releases/tag/v2.3.7).
 
 ## Podporované typy dokumentů
 Systém v současnosti podporuje popis a zpracování:

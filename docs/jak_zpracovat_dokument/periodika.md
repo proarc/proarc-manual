@@ -236,6 +236,9 @@ objekt), → (na následující objekt).
 
 ![](./media/periodika/image21.png)
 
+!!! tip "Tip"
+    K hromadnému zakládání čísel (výtisků) v rámci periodika můžete využít [funkci "Více"](./hromadne_zakladani_NDK_cisel_pres_funkci_Vice.md).
+
 ## Načtení dat 
 
 Každý uživatel má v ProArcu přiřazeny pracovní adresáře. O jejich

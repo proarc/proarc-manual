@@ -73,9 +73,10 @@ nav:
       - Přehled užitečných funkcí: uzitecne_funkce/prehled_funkci.md
       - Popis obrazových dat:
           - Funkce označit řadu: jak_zpracovat_dokument/periodika_oznacit_radu.md
+      - Metadata:
+        - Hromadné zakládání NDK Čísel: jak_zpracovat_dokument/hromadne_zakladani_NDK_cisel_pres_funkci_Vice.md
       - Import dat:
-          - Import NDK PSP: uzitecne_funkce/import_ndk_psp.md
-          - Import FOXML (Kramerius): uzitecne_funkce/import_foxml.md
+          - Reimport dat do ProArcu: uzitecne_funkce/reimport_dat.md
 markdown_extensions:
   - admonition
   - pymdownx.details

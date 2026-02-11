@@ -1,7 +1,3 @@
----
-status: new
----
-
 # Popis obrazových dat - Funkce označit řadu
 
 

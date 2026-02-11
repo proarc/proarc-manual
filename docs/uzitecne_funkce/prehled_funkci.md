@@ -1,11 +1,9 @@
----
-status: new
----
-
 ## Popis obrazových dat
 
 - [Funkce označit řadu](../jak_zpracovat_dokument/periodika_oznacit_radu.md)
 
+## Tvorba metadat
+- [Hromadné zakládání NDK Čísel přes funkci "Více"](../jak_zpracovat_dokument/hromadne_zakladani_NDK_cisel_pres_funkci_Vice.md)
+
 ## Import dat
-- [Import NDK PSP](./import_ndk_psp.md)
-- [Import FOXML (Kramerius)](./import_foxml.md)
+- [Reimport dat](./reimport_dat.md) (archivní balíčky, NDK balíčky, FOXML)
