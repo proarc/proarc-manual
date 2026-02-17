@@ -41,21 +41,21 @@ jsou popsány tři nejběžnější:
 
 ## Import dokumentu do ProArcu na příkladu NDK PSP
 
-1.  Umístěte NDK PSP balíček určený k importu do importní složky
+1)  Umístěte NDK PSP balíček určený k importu do importní složky
     ProArcu.
 
-2.  V horní navigační liště zvolte možnost **Import**.
+2)  V horní navigační liště zvolte možnost **Import**.
 
-3.  Z roletky vyberte importní profil `NDK PSP`. Tím se zpřístupní
+3)  Z roletky vyberte importní profil `NDK PSP`. Tím se zpřístupní
     checkbox u připraveného balíčku.
 
-4.  Označte balíček a stiskněte tlačítko **Načíst**.
+4)  Označte balíček a stiskněte tlačítko **Načíst**.
 
 ![](./media/import-a-vice/image1.png)
 
-5.  **Priorita** je ve výchozím stavu nastavena na **Střední**. Zvolíte-li vyšší prioritu, bude se dávka ve frontě zpracovávat dříve než ostatní. Jinak se zařadí na konec fronty.
+5)  **Priorita** je ve výchozím stavu nastavena na **Střední**. Zvolíte-li vyšší prioritu, bude se dávka ve frontě zpracovávat dříve než ostatní. Jinak se zařadí na konec fronty.
 
-6.  Funkce **Generovat index stránek** je ve výchozím stavu zapnutá.
+6)  Funkce **Generovat index stránek** je ve výchozím stavu zapnutá.
 
 ![](./media/import-a-vice/image2.png)
 

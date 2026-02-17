@@ -1,6 +1,6 @@
----
+--
 status: new
----
+--
 
 # Hromadné zakládání NDK Čísel přes funkci Více
 
@@ -15,7 +15,7 @@ Funkci Více naleznete v dialogovém okně **Nový objekt** na úrovni **roční
 !!! warning "Upozornění" 
     Pokud není checkbox **Více** zaškrtnutý, související nabídky zůstávají neaktivní (zašedlé).
 
-V poli **`**Frekvence** je k dispozici roletka s následujícími hodnotami: `Jiné`, `Deník`, `Týdeník`, `Čtrnáctideník`, `Měsíčník` a `Čtvrtletník`. Při výběru předdefinované frekvence systém automaticky dopočítá počet čísel, která mají být založena, na základě zadaného časového rozsahu.
+V poli **Frekvence** je k dispozici roletka s následujícími hodnotami: `Jiné`, `Deník`, `Týdeník`, `Čtrnáctideník`, `Měsíčník` a `Čtvrtletník`. Při výběru předdefinované frekvence systém automaticky dopočítá počet čísel, která mají být založena, na základě zadaného časového rozsahu.
 
 ![](./media/import-a-vice/image8.png)
 
@@ -33,9 +33,9 @@ Není nutné začínat od čísla 1 - zadáním hodnoty 10 začne ProArc vytvá�
 
 Datum vydání lze generovat v jednom ze tří předdefinovaných formátů:
 
-- `dd.mm.yyyy` -- den.měsíc.rok (např. 01.12.1927)
-- `mm.yyyy` -- měsíc.rok (např. 07.1927)
-- `yyyy` -- rok (např. 1927)
+- `dd.mm.yyyy` - den.měsíc.rok (např. 01.12.1927)
+- `mm.yyyy` - měsíc.rok (např. 07.1927)
+- `yyyy` - rok (např. 1927)
 
 ![](./media/import-a-vice/image11.png){width=500 .centered}
 
