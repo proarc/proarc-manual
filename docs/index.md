@@ -2,13 +2,13 @@
 
 ProArc je open-source systém pro tvorbu popisných, technických a administrativních metadat pro digitalizované i born-digital dokumenty. 
 
-Podporuje [standardy Národní digitální knihovny (NDK)](https://standardy.ndk.cz/) a produkuje data kompatibilní se systémem [Kramerius](https://github.com/ceskaexpedice/kramerius).
+Podporuje [standardy Národní digitální knihovny (NDK)](https://standardy.ndk.cz/) a produkuje data kompatibilní se systémem [Kramerius](https://system-kramerius.cz/).
 
-??? info "Nové stabilní verze ProArcu a jejich funkce"
+??? info "Nové verze ProArcu a jejich funkce"
 
     === "4.3.x"
 
-        - **Implementace aktuálních Definic metadatových formátů (DMF)** se zaměřením na elektronické publikace.
+        - **Implementace nových Definic metadatových formátů (DMF)** se zaměřením na elektronické publikace.
         - **Optimalizace uživatelské práce a rozhraní** pro rychlejší paginaci, přehlednější správu importů a flexibilnější práci s uživatelskými rolemi.
         - **Optimalizace interních procesů** a rozšíření možností hromadných operací nad daty.
 
@@ -16,11 +16,10 @@ Podporuje [standardy Národní digitální knihovny (NDK)](https://standardy.ndk
 
     === "5.0.x"
             
-        - **Zahrnuje vylepšení funkcí z předchozích verzí**
-        - **Upgrade softwarových komponent** zahrnující:
-            - modernizace softwarového jádra (přechod na Javu 21), 
-            - modernizaci klientského rozhraní (Angular 18)
-            - kontejnerizaci aplikace (Docker) pro zvýšení bezpečnosti a zjednodušení správy.
+        - **Zahrnuje úpravy z předchozích verzí**
+        - **Navíc obsahuje upgrade softwarových komponent**:
+            - modernizaci softwarového jádra (přechod na Javu 21), 
+            - kontejnerizaci aplikace (Docker).
 
         [:octicons-arrow-right-24: Zobrazit přehled hlavních změn](./changelog/v50x.md)
 
