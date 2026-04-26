@@ -2,9 +2,29 @@
 
 ProArc je open-source systém pro tvorbu popisných, technických a administrativních metadat pro digitalizované i born-digital dokumenty. 
 
-Podporuje [standardy Národní digitální knihovny (NDK)](https://standardy.ndk.cz/) a produkuje data kompatibilní se systémem [Kramerius](https://github.com/ceskaexpedice/kramerius).
+Podporuje [standardy Národní digitální knihovny (NDK)](https://standardy.ndk.cz/) a produkuje data kompatibilní se systémem [Kramerius](https://system-kramerius.cz/).
+
+??? info "Nové verze ProArcu a jejich funkce"
+
+    === "4.3.3"
+
+        - **Implementace nových Definic metadatových formátů (DMF)** se zaměřením na elektronické publikace.
+        - **Optimalizace uživatelské práce a rozhraní** pro rychlejší paginaci, přehlednější správu importů a flexibilnější práci s uživatelskými rolemi.
+        - **Optimalizace interních procesů** a rozšíření možností hromadných operací nad daty.
+
+        [:octicons-arrow-right-24: Zobrazit přehled hlavních změn](./changelog/v43x.md)
+
+    === "5.0.2"
+            
+        - **Zahrnuje úpravy [z předchozích verzí](./changelog/v43x.md)**
+        - **Navíc obsahuje upgrade softwarových komponent**:
+            - modernizaci softwarového jádra (přechod na Javu 21), 
+            - kontejnerizaci aplikace (Docker).
+
+        [:octicons-arrow-right-24: Zobrazit přehled hlavních změn](./changelog/v50x.md)
 
 ## Kde začít?
+
 
 <div class="grid cards" markdown>
 
@@ -47,5 +67,13 @@ Podporuje [standardy Národní digitální knihovny (NDK)](https://standardy.ndk
     Skupina slouží k zasílání přehledů novinek o systému. 
 
     [:octicons-arrow-right-24: Přidejte se](https://groups.google.com/g/proarc-users/about)
+
+-   :fontawesome-solid-people-group:{ .lg .middle } __Setkání uživatelů__
+
+    ---
+
+    Máte zájem o setkání uživatelů ProArcu s prostorem pro diskusi a sdílení zkušeností? Napište nám téma, kterému by se měla věnovat pozornost.
+
+    [:octicons-arrow-right-24: Narhnout téma](https://forms.gle/1Tkk3zjR5UfjwBE3A)
 
 </div>

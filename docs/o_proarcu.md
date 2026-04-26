@@ -9,10 +9,24 @@ Systém je volně dostupný pod licencí [GNU GPLv3](https://github.com/proarc/p
 - [jádra](https://github.com/proarc/proarc/) ([technická dokumentace](https://github.com/proarc/proarc/wiki)),
 - [klientské aplikace](https://github.com/proarc/proarc-client/) ([technická dokumentace](https://github.com/proarc/proarc-client/wiki)).
 
-**Poslední stabilní verze**
+!!! info "Aktuální verze ProArcu"
 
-* [Jádro 4.2.12](https://github.com/proarc/proarc/releases/tag/v4.2.12),
-* [Klient 2.3.7](https://github.com/proarc/proarc-client/releases/tag/v2.3.7).
+    === "4.3.x"
+
+        - **Implementace nových Definic metadatových formátů (DMF)** se zaměřením na elektronické publikace.
+        - **Optimalizace uživatelské práce a rozhraní** pro rychlejší paginaci, přehlednější správu importů a flexibilnější práci s uživatelskými rolemi.
+        - **Optimalizace interních procesů** a rozšíření možností hromadných operací nad daty.
+
+        [:octicons-arrow-right-24: Zobrazit přehled hlavních změn](./changelog/v43x.md)
+
+    === "5.0.x"
+            
+        - **Zahrnuje úpravy z předchozích verzí**
+        - **Navíc obsahuje upgrade softwarových komponent**:
+            - modernizaci softwarového jádra (přechod na Javu 21), 
+            - kontejnerizaci aplikace (Docker).
+
+        [:octicons-arrow-right-24: Zobrazit přehled hlavních změn](./changelog/v50x.md)
 
 ## Podporované typy dokumentů
 Systém v současnosti podporuje popis a zpracování:
@@ -47,7 +61,7 @@ Systém v současnosti podporuje popis a zpracování:
   * Fedora Commons repository >> Akubra
   * Java
   * PostgreSQL
-  * Kakadu - použití pro vytvoření JPG2000. Pro získání instalace určené pro využití v ProArcu pro nekomerční účely je možné kontaktovat Národní knihovnu ČR - Bc. Petru Burdovou ([petra.burdova@nkp.cz](mailto:petra.burdova@nkp.cz)).
+  * Kakadu - použití pro vytvoření JPG2000.
 
 Systémy, které navazují nebo poskytují dostupnou funkcionalitu
  - Systém Kramerius [https://github.com/ceskaexpedice/kramerius](https://github.com/ceskaexpedice/kramerius)

@@ -11,4 +11,3 @@ Vývoj projektu koordinuje Knihovna Akademie věd spolu s Národní knihovnou Č
 
 - Ing. Martin Lhoták, Knihovna AV ČR, [lhotak@knav.cz](mailto:lhotak@knav.cz), hlavní koordinátor,
 - Ing. Petr Žabička, Moravská zemská knihovna v Brně, [petr.zabicka@mzk.cz](mailto:petr.zabicka@mzk.cz),
-- Bc. Petra Burdová, Národní knihovna ČR, [petra.burdova@nkp.cz](mailto:petra.burdova@nkp.cz).

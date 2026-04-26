@@ -2,6 +2,7 @@
   --md-primary-fg-color:        #456AA5;
   --md-primary-fg-color--light: #ECB7B7;
   --md-primary-fg-color--dark:  #90030C;
+  --md-accent-fg-color: #5689da;
 }
 
 .center {
@@ -12,4 +13,8 @@
 
 .bordered {
   border: 1px solid gray;
+}
+
+.md-button {
+  padding: .425em 1em !important;
 }
