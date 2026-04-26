@@ -1,6 +1,6 @@
---
+---
 status: new
---
+---
 
 # Hromadné zakládání NDK Čísel přes funkci Více
 
