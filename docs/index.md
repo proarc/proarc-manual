@@ -6,7 +6,7 @@ Podporuje [standardy Národní digitální knihovny (NDK)](https://standardy.ndk
 
 ??? info "Nové verze ProArcu a jejich funkce"
 
-    === "4.3.3"
+    === "4.3.4"
 
         - **Implementace nových Definic metadatových formátů (DMF)** se zaměřením na elektronické publikace.
         - **Optimalizace uživatelské práce a rozhraní** pro rychlejší paginaci, přehlednější správu importů a flexibilnější práci s uživatelskými rolemi.
@@ -14,7 +14,7 @@ Podporuje [standardy Národní digitální knihovny (NDK)](https://standardy.ndk
 
         [:octicons-arrow-right-24: Zobrazit přehled hlavních změn](./changelog/v43x.md)
 
-    === "5.0.2"
+    === "5.0.3"
             
         - **Zahrnuje úpravy [z předchozích verzí](./changelog/v43x.md)**
         - **Navíc obsahuje upgrade softwarových komponent**:

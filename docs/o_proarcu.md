@@ -11,7 +11,7 @@ Systém je volně dostupný pod licencí [GNU GPLv3](https://github.com/proarc/p
 
 !!! info "Aktuální verze ProArcu"
 
-    === "4.3.x"
+    === "4.3.4"
 
         - **Implementace nových Definic metadatových formátů (DMF)** se zaměřením na elektronické publikace.
         - **Optimalizace uživatelské práce a rozhraní** pro rychlejší paginaci, přehlednější správu importů a flexibilnější práci s uživatelskými rolemi.
@@ -19,7 +19,7 @@ Systém je volně dostupný pod licencí [GNU GPLv3](https://github.com/proarc/p
 
         [:octicons-arrow-right-24: Zobrazit přehled hlavních změn](./changelog/v43x.md)
 
-    === "5.0.x"
+    === "5.0.3"
             
         - **Zahrnuje úpravy z předchozích verzí**
         - **Navíc obsahuje upgrade softwarových komponent**:
